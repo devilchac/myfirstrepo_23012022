@@ -1,1 +1,2 @@
 Created file before clone.
+Hi,, Let's push it as Standard user.
